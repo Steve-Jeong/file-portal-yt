@@ -1,1 +1,5 @@
-<h1>Login</h1>
+<script>
+  import LoginForm from '../lib/components/login/loginForm.svelte';
+</script>
+
+<LoginForm title="Login" />
